@@ -1,0 +1,3 @@
+#ifndef CEL_NOT_IMPLEMENTED
+#define CEL_NOT_IMPLEMENTED(msg) CEL_NOT_IMPLEMENTED(msg)
+#endif
